@@ -1,7 +1,5 @@
 
-
-
-
+  
 
 # Midnight
 **A multi-purpose discord bot**
@@ -38,7 +36,7 @@ If you do not know what you are doing, it is recommended that **Midnight** is gi
 |**clear** | `clear <amount>` | Bulk delete `x` number of messages in the same channel. |
 |**kick** | `kick <mentioned user>` | Kicks the mentioned user. |
 | **ban** | `ban <mentioned user>` | Bans the mentioned user.
-| **mute/unmute** | `mute <mentioned user>` `unmute<mentioned user>` | Mutes or unmutes the mentioned user.user.
+| **mute/unmute** | `mute <mentioned user>` `unmute <mentioned user>` | Mutes or unmutes the mentioned user.user.
 | **lock/unlock** | `lock` `unlock` | Locks/Unlocks the channel for messaging. **[_NEW_]**
 ### Music [_NEW_] [_UPDATED_]
 | Name | Usage | Description |
